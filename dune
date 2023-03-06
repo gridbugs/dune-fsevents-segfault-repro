@@ -1,0 +1,3 @@
+(executable
+  (public_name fsevent_repro)
+  (libraries stdune fsevents))
